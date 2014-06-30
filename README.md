@@ -1,6 +1,9 @@
 yaqxyaqx.github.com
 ===================
 說明：
+
+good 1234
+
 解壓縮之後，開啟對應語言的資料夾即為該語言的Sample code。
 
 設定config中的三個環境變數：
